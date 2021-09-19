@@ -101,6 +101,7 @@ function App() {
       <div></div>
       <Hero name="Jayz"></Hero>
     </div>
+    //lua nhau
   );
 }
 
